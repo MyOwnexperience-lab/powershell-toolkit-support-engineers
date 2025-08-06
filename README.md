@@ -1,8 +1,8 @@
-# PowerShell Toolkit voor IT Support Engineers
+# PowerShell Toolkit voor Collega IT Support Engineers
 
 Een krachtige verzameling PowerShell-scripts voor supportmedewerkers, systeembeheerders en security engineers die werken met Microsoft 365, Azure AD en Exchange Online.
 
-Doel: taken automatiseren, fouten voorkomen en sneller werken — met security & compliance in het achterhoofd (NIS2 / ISO27001).
+Doel: taken automatiseren, fouten voorkomen en sneller werken met security & compliance in het achterhoofd (NIS2 / ISO27001).
 
 ---
 
