@@ -35,3 +35,7 @@ Zorg dat je PowerShell-sessie de juiste modules geladen heeft:
 Install-Module Microsoft.Graph -Scope CurrentUser
 Install-Module AzureAD -Scope CurrentUser
 Import-Module ExchangeOnlineManagement
+
+Connect-MgGraph -Scopes "User.Read.All", "Policy.Read.All", "Directory.Read.All"
+Connect-AzureAD
+Connect-ExchangeOnline
